@@ -1,0 +1,20 @@
+{
+  "name": "Jarvis Synthetic Mexican Peso",
+  "website": "https://jarvis.network/",
+  "description": "jFIATs are stablecoins for decentralized and centralized finance, designed to be usable: they keep their peg, are highly liquid and are scalable!",
+  "explorer": "https://polygonscan.com/token/0xBD1fe73e1f12bD2bc237De9b626F056f21f86427",
+  "type": "POLYGON",
+  "symbol": "jMXN",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xBD1fe73e1f12bD2bc237De9b626F056f21f86427",
+  "links": [
+    { "name": "twitter", "url": "https://twitter.com/jarvis_network" },
+    { "name": "github", "url": "https://github.com/jarvis-network" },
+    { "name": "medium", "url": "https://medium.com/jarvis-network" },
+    {
+      "name": "whitepaper",
+      "url": "https://drive.google.com/file/d/1WGK2yHG9C_IPXeZkH94jnSliYyQY0xVi/view"
+    }
+  ]
+}
