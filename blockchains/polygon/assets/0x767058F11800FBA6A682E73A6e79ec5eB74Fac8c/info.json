@@ -1,0 +1,20 @@
+{
+  "name": "Jarvis Synthetic British Pound",
+  "website": "https://jarvis.network/",
+  "description": "jFIATs are stablecoins for decentralized and centralized finance, designed to be usable: they keep their peg, are highly liquid and are scalable!",
+  "explorer": "https://polygonscan.com/token/0x767058F11800FBA6A682E73A6e79ec5eB74Fac8c",
+  "type": "POLYGON",
+  "symbol": "jGBP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x767058F11800FBA6A682E73A6e79ec5eB74Fac8c",
+  "links": [
+    { "name": "twitter", "url": "https://twitter.com/jarvis_network" },
+    { "name": "github", "url": "https://github.com/jarvis-network" },
+    { "name": "medium", "url": "https://medium.com/jarvis-network" },
+    {
+      "name": "whitepaper",
+      "url": "https://drive.google.com/file/d/1WGK2yHG9C_IPXeZkH94jnSliYyQY0xVi/view"
+    }
+  ]
+}
